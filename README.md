@@ -1,2 +1,0 @@
-# AwanaApp
-Created with CodeSandbox
